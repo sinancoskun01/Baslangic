@@ -1,0 +1,2 @@
+# Baslangic
+ilk projem
